@@ -1,0 +1,22 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\bin\Debug\Relogio.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\bin\Debug\Relogio.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\bin\Debug\Relogio.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\bin\Debug\MaterialSkin.dll
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.Form1.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.xml
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Relogio\obj\Debug\Relogio.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\bin\Debug\Relogio.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\bin\Debug\Relogio.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\bin\Debug\Relogio.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\bin\Debug\Relogio.xml
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\bin\Debug\MaterialSkin.dll
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.vbproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.xml
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Relogio\Relogio\obj\Debug\Relogio.pdb

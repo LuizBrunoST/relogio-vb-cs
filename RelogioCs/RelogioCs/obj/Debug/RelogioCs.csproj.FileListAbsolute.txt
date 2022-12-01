@@ -1,0 +1,20 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\bin\Debug\RelogioCs.exe.config
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\bin\Debug\RelogioCs.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\bin\Debug\RelogioCs.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.Properties.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.csproj.GenerateResource.Cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\bin\Debug\MaterialSkin.dll
+C:\Users\USUARIO\AppData\Local\Temporary Projects\RelogioCs\obj\Debug\RelogioCs.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\bin\Debug\RelogioCs.exe.config
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.Form1.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\bin\Debug\RelogioCs.exe
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\bin\Debug\RelogioCs.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\bin\Debug\MaterialSkin.dll
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\RelogioCs\RelogioCs\obj\Debug\RelogioCs.pdb
